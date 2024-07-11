@@ -3,18 +3,18 @@
     "name": "Dystopia",
     "author": "Joryll Robert",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/wall_01.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/wall_01.jpg&w=200"
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbs/wall_01_thumb.jpg"
   },
   {
     "name": "Isolation",
     "author": "Joryll Robert",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/wall_02.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/wall_02.jpg&w=200"
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbs/wall_02_thumb.jpg"
   },
   {
     "name": "Scrapes",
     "author": "Joryll Robert",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/wall_03.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/wall_03.jpg&w=200"
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbs/wall_03_thumb.jpg"
   }
 ]
