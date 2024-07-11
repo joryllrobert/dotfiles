@@ -16,5 +16,11 @@
     "author": "Joryll Robert",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/wall_03.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbs/wall_03_thumb.jpg"
-  }
+  },
+  {
+    "name": "Green and Red Leaf",
+    "author": "Nareeta Martin",
+    "url": "https://images.unsplash.com/photo-1614481327033-68e5df399653?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "thumbUrl": "https://images.unsplash.com/photo-1614481327033-68e5df399653?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=200"
+  },
 ]
