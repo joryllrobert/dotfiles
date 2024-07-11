@@ -1,4 +1,4 @@
-[
+ [
   {
     "name": "Dystopia",
     "author": "Joryll Robert",
@@ -20,7 +20,7 @@
   {
     "name": "Green and Red Leaf",
     "author": "Nareeta Martin",
-    "url": "https://images.unsplash.com/photo-1614481327033-68e5df399653?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
-    "thumbUrl": "https://images.unsplash.com/photo-1614481327033-68e5df399653?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=200"
-  },
+    "url": "https://images.unsplash.com/photo-1614481327033-68e5df399653?ixlib=rb-1.2.1&q=80",
+    "thumbUrl": "https://images.unsplash.com/photo-1614481327033-68e5df399653?ixlib=rb-1.2.1&q=80&w=200"
+  }
 ]
