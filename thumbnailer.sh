@@ -1,20 +1,19 @@
 #!/bin/bash
 
-# Check if output directory exists, create it if not
-output_dir="thumbnails"
+# Directory containing the PNG images
+input_dir="wallpapers"
+# Directory to save the thumbnails
+output_dir="wallpapers/thumbnails"
+
+# Create the output directory if it doesn't exist
 mkdir -p "$output_dir"
 
-# Loop through all JPEG and PNG files in the current directory
-for file in *.jpg *.jpeg *.png; do
-    if [ -f "$file" ]; then
-        # Generate thumbnail filename with prefix and extension
-        thumbnail_name="thumbnail_$(basename "$file")"
-
-        # Create the thumbnail
-        convert "$file" -resize 300x300^ -gravity center -extent 300x300 "$output_dir/$thumbnail_name"
-
-        echo "Created thumbnail: $output_dir/$thumbnail_name"
-    fi
+# Loop through all PNG files in the input directory
+for file in "$input_dir"/*.png; do
+    # Extract the filename without the directory
+    filename=$(basename "$file")
+    # Generate the thumbnail and save it to the output directory
+    convert "$file" -resize 300x300^ -gravity center -extent 300x300 "$output_dir/thumbnail_$filename"
 done
 
-echo "Thumbnails creation complete."
+echo "Thumbnails generated in $output_dir"
