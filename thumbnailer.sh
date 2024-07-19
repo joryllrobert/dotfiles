@@ -13,7 +13,8 @@ for file in "$input_dir"/*.png; do
     # Extract the filename without the directory
     filename=$(basename "$file")
     # Generate the thumbnail and save it to the output directory
-    convert "$file" -resize 300x300^ -gravity center -extent 300x300 "$output_dir/thumbnail_$filename"
+    magick "$file" -resize 300x300^ -gravity center -extent 300x300 "$output_dir/thumbnail_$filename"
+    echo "Creating thmubnail for $file".
 done
 
 echo "Thumbnails generated in $output_dir"
