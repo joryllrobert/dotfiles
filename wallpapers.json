@@ -18,12 +18,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Elowen.png"
   },
   {
-    "name": "Evander",
-    "author": "Evander",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Evander.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Evander.png"
-  },
-  {
     "name": "Faelan",
     "author": "Faelan",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Faelan.png",
@@ -162,22 +156,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Nerissa.png"
   },
   {
-    "name": "Octavian",
-    "author": "Octavian",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Octavian.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Octavian.png"
-  },
-  {
     "name": "Orlaith",
     "author": "Orlaith",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Orlaith.png",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Orlaith.png"
-  },
-  {
-    "name": "Persephone",
-    "author": "Persephone",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Persephone.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Persephone.png"
   },
   {
     "name": "Phineas",
@@ -190,18 +172,6 @@
     "author": "Rhonwen",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Rhonwen.png",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Rhonwen.png"
-  },
-  {
-    "name": "Roderick",
-    "author": "Roderick",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Roderick.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Roderick.png"
-  },
-  {
-    "name": "Sabine",
-    "author": "Sabine",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Sabine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Sabine.png"
   },
   {
     "name": "Sapphira",
@@ -228,22 +198,58 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Solene_Deepity-Fiona_Miggs.png"
   },
   {
-    "name": "Sylvana",
-    "author": "Sylvana",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Sylvana.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Sylvana.png"
-  },
-  {
     "name": "Tamsin",
     "author": "Tamsin",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Tamsin.png",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Tamsin.png"
   },
   {
+    "name": "A Blurry Photo",
+    "author": "Alexander Grey",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/A_Blurry_Photo-Alexander_Grey.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_A_Blurry_Photo-Alexander_Grey.jpg"
+  },
+  {
+    "name": "Abstract Blue",
+    "author": "Pawel Czerwinski",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Abstract_Blue-Pawel_Czerwinski.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Abstract_Blue-Pawel_Czerwinski.jpg"
+  },
+  {
     "name": "Aerial View of Ocean",
-    "author": "Pawel",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Aerial_View_of_Ocean-Pawel-Czerwinski.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Aerial_View_of_Ocean-Pawel-Czerwinski.jpg"
+    "author": "Pawel Czerwinski",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Aerial_View_of_Ocean-Pawel_Czerwinski.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Aerial_View_of_Ocean-Pawel_Czerwinski.jpg"
+  },
+  {
+    "name": "Blue Ceramic Coffee",
+    "author": "Annie Spratt",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Blue_Ceramic_Coffee-Annie_Spratt.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Blue_Ceramic_Coffee-Annie_Spratt.jpg"
+  },
+  {
+    "name": "Bunch of Marshmallows",
+    "author": "Joanna Kosinska",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Bunch_of_Marshmallows-Joanna_Kosinska.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Bunch_of_Marshmallows-Joanna_Kosinska.jpg"
+  },
+  {
+    "name": "Closeup Doughnut",
+    "author": "Heather Ford",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Closeup_Doughnut-Heather_Ford.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Closeup_Doughnut-Heather_Ford.jpg"
+  },
+  {
+    "name": "Green and Beige Cube",
+    "author": "Pawel Czerwinski",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Green_and_Beige_Cube-Pawel_Czerwinski.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Green_and_Beige_Cube-Pawel_Czerwinski.jpg"
+  },
+  {
+    "name": "Green Background",
+    "author": "Pawel Czerwinski",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Green_Background-Pawel_Czerwinski.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Green_Background-Pawel_Czerwinski.jpg"
   },
   {
     "name": "Lollipop in Blue Plate",
@@ -252,16 +258,52 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Lollipop_in_Blue_Plate-Mae_Mu.jpg"
   },
   {
+    "name": "Low Angle",
+    "author": "Jason Briscoe",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Low_Angle-Jason_Briscoe.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Low_Angle-Jason_Briscoe.jpg"
+  },
+  {
+    "name": "Multicolored Abstract",
+    "author": "Geordanna Cordero",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Multicolored_Abstract-Geordanna_Cordero.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Multicolored_Abstract-Geordanna_Cordero.jpg"
+  },
+  {
     "name": "Pink and Blue Abstract",
-    "author": "Pawel",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Pink_and_Blue_Abstract-Pawel-Czerwinski.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Pink_and_Blue_Abstract-Pawel-Czerwinski.jpg"
+    "author": "Pawel Czerwinski",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Pink_and_Blue_Abstract-Pawel_Czerwinski.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Pink_and_Blue_Abstract-Pawel_Czerwinski.jpg"
+  },
+  {
+    "name": "Pink and Blue Background",
+    "author": "Pawel Czerwinski",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Pink_and_Blue_Background-Pawel_Czerwinski.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Pink_and_Blue_Background-Pawel_Czerwinski.jpg"
+  },
+  {
+    "name": "Pink and Blue Liquid",
+    "author": "Pawel Czerwinkski",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Pink_and_Blue_Liquid-Pawel_Czerwinkski.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Pink_and_Blue_Liquid-Pawel_Czerwinkski.jpg"
   },
   {
     "name": "Pink and Blue Sky",
-    "author": "eberhard",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Pink_and_Blue_Sky-eberhard-grossgasteiger.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Pink_and_Blue_Sky-eberhard-grossgasteiger.jpg"
+    "author": "eberhard grossgasteiger",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Pink_and_Blue_Sky-eberhard_grossgasteiger.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Pink_and_Blue_Sky-eberhard_grossgasteiger.jpg"
+  },
+  {
+    "name": "Pink Flower Petals",
+    "author": "Pawel Czerwinski",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Pink_Flower_Petals-Pawel_Czerwinski.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Pink_Flower_Petals-Pawel_Czerwinski.jpg"
+  },
+  {
+    "name": "Pink Wall Paint",
+    "author": "nic chi",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Pink_Wall_Paint-nic_chi.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Pink_Wall_Paint-nic_chi.jpg"
   },
   {
     "name": "Pink Wall Paint",
@@ -276,6 +318,18 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Red_and_White_Abstract-J_Lee.jpg"
   },
   {
+    "name": "Silhouette of Mountain",
+    "author": "eberhard grossgasteiger",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Silhouette_of_Mountain-eberhard_grossgasteiger.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Silhouette_of_Mountain-eberhard_grossgasteiger.jpg"
+  },
+  {
+    "name": "Top View Beach",
+    "author": "Patrick Ryan",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Top_View_Beach-Patrick_Ryan.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Top_View_Beach-Patrick_Ryan.jpg"
+  },
+  {
     "name": "Two Pink Candyes",
     "author": "Mong Bui",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Two_Pink_Candyes-Mong_Bui.jpg",
@@ -286,5 +340,17 @@
     "author": "Elena Koycheva",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Two_Strawberry_Doughnuts_with_Sprinkles-Elena_Koycheva.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Two_Strawberry_Doughnuts_with_Sprinkles-Elena_Koycheva.jpg"
+  },
+  {
+    "name": "Wooden Sticks on Pink Surface",
+    "author": "Elena Koycheva",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Wooden_Sticks_on_Pink_Surface-Elena_Koycheva.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Wooden_Sticks_on_Pink_Surface-Elena_Koycheva.jpg"
+  },
+  {
+    "name": "Yellow Abstract",
+    "author": "Pawel Czerwinski",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Yellow_Abstract-Pawel_Czerwinski.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Yellow_Abstract-Pawel_Czerwinski.jpg"
   }
 ]
