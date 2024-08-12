@@ -33,7 +33,21 @@ done
 
 echo "Thumbnails generated in $output_dir"
 
-#!/bin/bash
+for file in "$input_dir"/*.jpg; do
+  # Get the base name of the file (without directory and extension)
+  base_name=$(basename "$file" .jpg)
+
+  # Define the temporary output file path
+  temp_file="$input_dir/$base_name-temp.jpg"
+
+  # Convert jpg to jpg with specified quality
+  magick "$file" -quality 75 "$temp_file"
+
+  # Replace the original file with the processed file
+  mv "$temp_file" "$file"
+
+  echo "Replaced $file with $temp_file"
+done
 
 # Directory containing the files
 directory="wallpapers"
