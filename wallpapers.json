@@ -1,21 +1,15 @@
 [
   {
+    "name": "Blurry",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Blurry-Flawed_Koncepts.png",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Blurry-Flawed_Koncepts.png"
+  },
+  {
     "name": "Eamon",
     "author": "Eamon",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Eamon.png",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Eamon.png"
-  },
-  {
-    "name": "Elara",
-    "author": "Elara",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Elara.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Elara.png"
-  },
-  {
-    "name": "Elowen",
-    "author": "Elowen",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Elowen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Elowen.png"
   },
   {
     "name": "Faelan",
@@ -46,12 +40,6 @@
     "author": "Hesper",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Hesper.png",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Hesper.png"
-  },
-  {
-    "name": "Idris",
-    "author": "Idris",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Idris.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Idris.png"
   },
   {
     "name": "Imperfekt",
@@ -270,12 +258,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Blue_Ceramic_Coffee-Annie_Spratt.jpg"
   },
   {
-    "name": "Blue Dragonfly",
-    "author": "Patti Black",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Blue_Dragonfly-Patti_Black.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Blue_Dragonfly-Patti_Black.jpg"
-  },
-  {
     "name": "Bunch of Marshmallows",
     "author": "Joanna Kosinska",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Bunch_of_Marshmallows-Joanna_Kosinska.jpg",
@@ -286,12 +268,6 @@
     "author": "Cerrusite",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Cerrusite.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Cerrusite.jpg"
-  },
-  {
-    "name": "Chrysoberyl Cat's Eye",
-    "author": "Chrysoberyl Cat's Eye",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Chrysoberyl Cat's Eye.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Chrysoberyl Cat's Eye.jpg"
   },
   {
     "name": "Clinohumite",
@@ -400,12 +376,6 @@
     "author": "Jason Briscoe",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Low_Angle-Jason_Briscoe.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Low_Angle-Jason_Briscoe.jpg"
-  },
-  {
-    "name": "Maw Sit Sit",
-    "author": "Maw Sit Sit",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Maw Sit Sit.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Maw Sit Sit.jpg"
   },
   {
     "name": "Multicolored Abstract",
