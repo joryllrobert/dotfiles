@@ -132,12 +132,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Maelis.png"
   },
   {
-    "name": "Marcellus",
-    "author": "Marcellus",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Marcellus.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Marcellus.png"
-  },
-  {
     "name": "Marigold",
     "author": "Marigold",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Marigold.png",
@@ -178,12 +172,6 @@
     "author": "Phineas",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Phineas.png",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Phineas.png"
-  },
-  {
-    "name": "Rhonwen",
-    "author": "Rhonwen",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Rhonwen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Rhonwen.png"
   },
   {
     "name": "Sapphira",
@@ -258,12 +246,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Andesine.jpg"
   },
   {
-    "name": "A Quote",
-    "author": "Leeloo The First",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/A_Quote-Leeloo_The_First.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_A_Quote-Leeloo_The_First.jpg"
-  },
-  {
     "name": "Background Pattern",
     "author": "Christina Deravedisian",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Background_Pattern-Christina_Deravedisian.jpg",
@@ -307,9 +289,9 @@
   },
   {
     "name": "Cerrusite",
-    "author": "Cerrusite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Cerrusite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Cerrusite.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Cerrusite-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Cerrusite-Flawed_Koncepts.jpg"
   },
   {
     "name": "Clinohumite",
@@ -396,12 +378,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Green_Painted_Wall-Jené_Stephaniuk.jpg"
   },
   {
-    "name": "Handletter",
-    "author": "Anna Tarazevich",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Handletter-Anna_Tarazevich.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Handletter-Anna_Tarazevich.jpg"
-  },
-  {
     "name": "Jeremejevite",
     "author": "Jeremejevite",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Jeremejevite.jpg",
@@ -442,12 +418,6 @@
     "author": "Musgravite",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Musgravite.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Musgravite.jpg"
-  },
-  {
-    "name": "Origami 3D",
-    "author": "Joao Paulino",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Origami_3D-Joao_Paulino.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Origami_3D-Joao_Paulino.jpg"
   },
   {
     "name": "Painite",
@@ -604,12 +574,6 @@
     "author": "Codioful",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/White_and_Blue_Light-Codioful.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_White_and_Blue_Light-Codioful.jpg"
-  },
-  {
-    "name": "White Blue Red Round",
-    "author": "Pawel Czerwinski",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/White_Blue_Red_Round-Pawel_Czerwinski.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_White_Blue_Red_Round-Pawel_Czerwinski.jpg"
   },
   {
     "name": "Wooden Sticks on Pink Surface",
