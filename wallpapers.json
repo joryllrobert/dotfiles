@@ -240,12 +240,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Alexandrite-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Andesine",
-    "author": "Andesine",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Andesine.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Andesine.jpg"
-  },
-  {
     "name": "Background Pattern",
     "author": "Christina Deravedisian",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Background_Pattern-Christina_Deravedisian.jpg",
@@ -348,6 +342,12 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Fire Opal.jpg"
   },
   {
+    "name": "Furry Heart",
+    "author": "Flawed Concepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Furry_Heart-Flawed_Concepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Furry_Heart-Flawed_Concepts.jpg"
+  },
+  {
     "name": "Grandidierite",
     "author": "Grandidierite",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Grandidierite.jpg",
@@ -394,6 +394,12 @@
     "author": "Image by Freepik",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Layers_Colorful_Ripped_Papers-Image_by_Freepik.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Layers_Colorful_Ripped_Papers-Image_by_Freepik.jpg"
+  },
+  {
+    "name": "Leaves AI",
+    "author": "Leaves AI",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Leaves_AI.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Leaves_AI.jpg"
   },
   {
     "name": "Lollipop in Blue Plate",
