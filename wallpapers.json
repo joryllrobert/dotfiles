@@ -6,28 +6,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Blades-Flawed_Koncepts.png"
   },
   {
-    "name": "Blurry",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Blurry-Flawed_Koncepts.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Blurry-Flawed_Koncepts.png"
-  },
-  {
     "name": "Brown Happiness",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Brown_Happiness-Flawed_Koncepts.png",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Brown_Happiness-Flawed_Koncepts.png"
-  },
-  {
-    "name": "Eamon",
-    "author": "Eamon",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Eamon.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Eamon.png"
-  },
-  {
-    "name": "Faelan",
-    "author": "Faelan",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Faelan.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Faelan.png"
   },
   {
     "name": "Furry Sea",
@@ -36,112 +18,34 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Furry_Sea-Flawed_Koncepts.png"
   },
   {
-    "name": "Galatea",
-    "author": "Galatea",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Galatea.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Galatea.png"
-  },
-  {
-    "name": "Galen",
-    "author": "Galen",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Galen.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Galen.png"
-  },
-  {
-    "name": "Galilea",
-    "author": "Galilea",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Galilea.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Galilea.png"
-  },
-  {
-    "name": "Hesper",
-    "author": "Hesper",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Hesper.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Hesper.png"
-  },
-  {
     "name": "Imperfekt",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Imperfekt-Flawed_Koncepts.png",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Imperfekt-Flawed_Koncepts.png"
   },
   {
-    "name": "Ione",
-    "author": "Ione",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Ione.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Ione.png"
-  },
-  {
-    "name": "Isolde",
-    "author": "Isolde",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Isolde.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Isolde.png"
-  },
-  {
-    "name": "Jareth",
-    "author": "Jareth",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Jareth.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Jareth.png"
-  },
-  {
-    "name": "Jessamine",
-    "author": "Jessamine",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Jessamine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Jessamine.png"
-  },
-  {
-    "name": "Kael",
-    "author": "Kael",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Kael.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Kael.png"
-  },
-  {
-    "name": "Kalinda",
-    "author": "Kalinda",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Kalinda.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Kalinda.png"
-  },
-  {
-    "name": "Keir",
-    "author": "Keir",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Keir.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Keir.png"
+    "name": "Lavanda Light",
+    "author": "Vinceliuice",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Lavanda_Light-Vinceliuice.png",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Lavanda_Light-Vinceliuice.png"
   },
   {
     "name": "Leocadia",
-    "author": "Leocadia",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Leocadia.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Leocadia.png"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Leocadia-Flawed_Koncepts.png",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Leocadia-Flawed_Koncepts.png"
   },
   {
     "name": "Leontine",
-    "author": "Leontine",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Leontine.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Leontine.png"
-  },
-  {
-    "name": "Lysander",
-    "author": "Lysander",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Lysander.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Lysander.png"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Leontine-Flawed_Koncepts.png",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Leontine-Flawed_Koncepts.png"
   },
   {
     "name": "Maelis",
-    "author": "Maelis",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Maelis.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Maelis.png"
-  },
-  {
-    "name": "Marigold",
-    "author": "Marigold",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Marigold.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Marigold.png"
-  },
-  {
-    "name": "Meliora",
-    "author": "Meliora",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Meliora.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Meliora.png"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Maelis-Flawed_Koncepts.png",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Maelis-Flawed_Koncepts.png"
   },
   {
     "name": "Muddy Kitty",
@@ -150,46 +54,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Muddy_Kitty-Flawed_Koncepts.png"
   },
   {
-    "name": "Myrddin",
-    "author": "Myrddin",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Myrddin.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Myrddin.png"
-  },
-  {
-    "name": "Nerissa",
-    "author": "Nerissa",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Nerissa.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Nerissa.png"
-  },
-  {
-    "name": "Orlaith",
-    "author": "Orlaith",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Orlaith.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Orlaith.png"
-  },
-  {
-    "name": "Phineas",
-    "author": "Phineas",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Phineas.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Phineas.png"
-  },
-  {
-    "name": "Sapphira",
-    "author": "Sapphira",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Sapphira.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Sapphira.png"
-  },
-  {
-    "name": "Selene",
-    "author": "Selene",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Selene.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Selene.png"
-  },
-  {
     "name": "Seraphina",
-    "author": "Seraphina",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Seraphina.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Seraphina.png"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Seraphina-Flawed_Koncepts.png",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Seraphina-Flawed_Koncepts.png"
   },
   {
     "name": "Solene Deepity",
@@ -198,10 +66,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Solene_Deepity-Fiona_Miggs.png"
   },
   {
-    "name": "Tamsin",
-    "author": "Tamsin",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Tamsin.png",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Tamsin.png"
+    "name": "Werson",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Werson-Flawed_Koncepts.png",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Werson-Flawed_Koncepts.png"
   },
   {
     "name": "3D Flowers",
@@ -252,22 +120,16 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Benitoite.jpg"
   },
   {
-    "name": "Bixbite",
-    "author": "Bixbite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Bixbite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Bixbite.jpg"
-  },
-  {
-    "name": "Black Opal",
-    "author": "Black Opal",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Black Opal.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Black Opal.jpg"
-  },
-  {
     "name": "Blue Ceramic Coffee",
     "author": "Annie Spratt",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Blue_Ceramic_Coffee-Annie_Spratt.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Blue_Ceramic_Coffee-Annie_Spratt.jpg"
+  },
+  {
+    "name": "Blurry",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Blurry-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Blurry-Flawed_Koncepts.jpg"
   },
   {
     "name": "Brick Wall",
@@ -289,9 +151,9 @@
   },
   {
     "name": "Clinohumite",
-    "author": "Clinohumite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Clinohumite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Clinohumite.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Clinohumite-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Clinohumite-Flawed_Koncepts.jpg"
   },
   {
     "name": "Closeup Doughnut",
@@ -319,39 +181,51 @@
   },
   {
     "name": "Demantoid Garnet",
-    "author": "Demantoid Garnet",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Demantoid Garnet.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Demantoid Garnet.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Demantoid Garnet-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Demantoid Garnet-Flawed_Koncepts.jpg"
   },
   {
     "name": "Diaspore",
-    "author": "Diaspore",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Diaspore.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Diaspore.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Diaspore-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Diaspore-Flawed_Koncepts.jpg"
   },
   {
     "name": "Enstatite",
-    "author": "Enstatite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Enstatite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Enstatite.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Enstatite-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Enstatite-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Fire Opal",
-    "author": "Fire Opal",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Fire Opal.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Fire Opal.jpg"
+    "name": "Faelan",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Faelan-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Faelan-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Furry Heart",
+    "name": "Furry Hearts",
     "author": "Flawed Concepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Furry_Heart-Flawed_Concepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Furry_Heart-Flawed_Concepts.jpg"
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Furry_Hearts-Flawed_Concepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Furry_Hearts-Flawed_Concepts.jpg"
+  },
+  {
+    "name": "Galatea",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Galatea-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Galatea-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Galen",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Galen-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Galen-Flawed_Koncepts.jpg"
   },
   {
     "name": "Grandidierite",
-    "author": "Grandidierite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Grandidierite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Grandidierite.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Grandidierite-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Grandidierite-Flawed_Koncepts.jpg"
   },
   {
     "name": "Green and Beige Cube",
@@ -378,16 +252,58 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Green_Painted_Wall-Jené_Stephaniuk.jpg"
   },
   {
+    "name": "Hesper",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Hesper-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Hesper-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Ione",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Ione-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Ione-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Isolde",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Isolde-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Isolde-Flawed_Koncepts.jpg"
+  },
+  {
     "name": "Jeremejevite",
-    "author": "Jeremejevite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Jeremejevite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Jeremejevite.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Jeremejevite-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Jeremejevite-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Jessamine",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Jessamine-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Jessamine-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Kael",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Kael-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Kael-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Kalinda",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Kalinda-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Kalinda-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Keir",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Keir-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Keir-Flawed_Koncepts.jpg"
   },
   {
     "name": "Larimar",
-    "author": "Larimar",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Larimar.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Larimar.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Larimar-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Larimar-Flawed_Koncepts.jpg"
   },
   {
     "name": "Layers Colorful Ripped Papers",
@@ -396,10 +312,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Layers_Colorful_Ripped_Papers-Image_by_Freepik.jpg"
   },
   {
-    "name": "Leaves AI",
-    "author": "Leaves AI",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Leaves_AI.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Leaves_AI.jpg"
+    "name": "Leaves",
+    "author": "AI",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Leaves-AI.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Leaves-AI.jpg"
   },
   {
     "name": "Lollipop in Blue Plate",
@@ -414,28 +330,58 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Low_Angle-Jason_Briscoe.jpg"
   },
   {
+    "name": "Lysander",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Lysander-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Lysander-Flawed_Koncepts.jpg"
+  },
+  {
     "name": "Multicolored Abstract",
     "author": "Geordanna Cordero",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Multicolored_Abstract-Geordanna_Cordero.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Multicolored_Abstract-Geordanna_Cordero.jpg"
   },
   {
-    "name": "Musgravite",
-    "author": "Musgravite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Musgravite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Musgravite.jpg"
+    "name": "Myrddin",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Myrddin-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Myrddin-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Nerissa",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Nerissa-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Nerissa-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Opalix",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Opalix-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Opalix-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Orlaith",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Orlaith-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Orlaith-Flawed_Koncepts.jpg"
   },
   {
     "name": "Painite",
-    "author": "Painite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Painite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Painite.jpg"
+    "author": "AI",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Painite-AI.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Painite-AI.jpg"
   },
   {
     "name": "Paraíba Tourmaline",
-    "author": "Paraíba Tourmaline",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Paraíba Tourmaline.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Paraíba Tourmaline.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Paraíba Tourmaline-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Paraíba Tourmaline-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Phineas",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Phineas-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Phineas-Flawed_Koncepts.jpg"
   },
   {
     "name": "Pink and Blue Abstract",
@@ -475,9 +421,9 @@
   },
   {
     "name": "Poudretteite",
-    "author": "Poudretteite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Poudretteite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Poudretteite.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Poudretteite-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Poudretteite-Flawed_Koncepts.jpg"
   },
   {
     "name": "Red and White Abstract",
@@ -498,10 +444,22 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Round_Blue_Object-Neeqolah_Creative_Works.jpg"
   },
   {
+    "name": "Sapphira",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Sapphira-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Sapphira-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Selene",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Selene-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Selene-Flawed_Koncepts.jpg"
+  },
+  {
     "name": "Serendibite",
-    "author": "Serendibite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Serendibite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Serendibite.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Serendibite-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Serendibite-Flawed_Koncepts.jpg"
   },
   {
     "name": "Silhouette of Mountain",
@@ -528,10 +486,10 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Squishy_Fluffy_Balls-Totally_ImaGINAble_Creations.jpg"
   },
   {
-    "name": "Taaffeite",
-    "author": "Taaffeite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Taaffeite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Taaffeite.jpg"
+    "name": "Tamsin",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Tamsin-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Tamsin-Flawed_Koncepts.jpg"
   },
   {
     "name": "Tanzanite",
@@ -544,12 +502,6 @@
     "author": "Neeqolah Creative Works",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Three_Doughnuts-Neeqolah_Creative_Works.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Three_Doughnuts-Neeqolah_Creative_Works.jpg"
-  },
-  {
-    "name": "Trapiche Emerald",
-    "author": "Trapiche Emerald",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Trapiche Emerald.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Trapiche Emerald.jpg"
   },
   {
     "name": "Two Pink Candyes",
@@ -568,12 +520,6 @@
     "author": "Totally ImaGINAble Creations",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Untitled-Totally_ImaGINAble_Creations.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Untitled-Totally_ImaGINAble_Creations.jpg"
-  },
-  {
-    "name": "Uvarovite",
-    "author": "Uvarovite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Uvarovite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Uvarovite.jpg"
   },
   {
     "name": "White and Blue Light",
@@ -601,8 +547,8 @@
   },
   {
     "name": "Zultanite",
-    "author": "Zultanite",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Zultanite.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Zultanite.jpg"
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/Zultanite-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/thumbnails/thumbnail_Zultanite-Flawed_Koncepts.jpg"
   }
 ]
