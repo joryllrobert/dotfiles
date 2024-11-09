@@ -6,6 +6,7 @@ input_dir="wallpapers"
 output_dir="wallpapers/thumbnails"
 
 # Create the output directory if it doesn't exist
+rm -rf "$output_dir"
 mkdir -p "$output_dir"
 
 # Function to process each image file
