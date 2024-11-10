@@ -24,6 +24,12 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Muddy_Kitty-Flawed_Koncepts.png"
   },
   {
+    "name": "True Imperfektion",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/True_Imperfektion-Flawed_Koncepts.png",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_True_Imperfektion-Flawed_Koncepts.png"
+  },
+  {
     "name": "Abundant Plenitude",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Abundant_Plenitude-Flawed_Koncepts.jpg",
@@ -72,6 +78,12 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Brilliant_Intellect-Flawed_Koncepts.jpg"
   },
   {
+    "name": "Brilliant Luminescence",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Brilliant_Luminescence-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Brilliant_Luminescence-Flawed_Koncepts.jpg"
+  },
+  {
     "name": "Brilliant Radiance",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Brilliant_Radiance-Flawed_Koncepts.jpg",
@@ -102,10 +114,22 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Complete_Clemency-Flawed_Koncepts.jpg"
   },
   {
+    "name": "Complete Emancipation",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Complete_Emancipation-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Complete_Emancipation-Flawed_Koncepts.jpg"
+  },
+  {
     "name": "Complete Fidelity",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Complete_Fidelity-Flawed_Koncepts.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Complete_Fidelity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Complete Wisdom",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Complete_Wisdom-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Complete_Wisdom-Flawed_Koncepts.jpg"
   },
   {
     "name": "Consistent Rectitude",
@@ -174,12 +198,6 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Enduring_Renown-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Flourishing Vigour",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Flourishing_Vigour-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Flourishing_Vigour-Flawed_Koncepts.jpg"
-  },
-  {
     "name": "Focused Mindfulness",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Focused_Mindfulness-Flawed_Koncepts.jpg",
@@ -192,10 +210,22 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Generous_Beneficence-Flawed_Koncepts.jpg"
   },
   {
+    "name": "Generous Magnanimity",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Generous_Magnanimity-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Generous_Magnanimity-Flawed_Koncepts.jpg"
+  },
+  {
     "name": "Gentle Benefaction",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Gentle_Benefaction-Flawed_Koncepts.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Gentle_Benefaction-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Genuine Demureness",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Genuine_Demureness-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Genuine_Demureness-Flawed_Koncepts.jpg"
   },
   {
     "name": "Graceful Refinement",
@@ -226,6 +256,12 @@
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Harmonious_Accord-Flawed_Koncepts.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Harmonious_Accord-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Heightened Presence",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Heightened_Presence-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Heightened_Presence-Flawed_Koncepts.jpg"
   },
   {
     "name": "Heroic Courage",
@@ -282,6 +318,12 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Lasting_Amity-Flawed_Koncepts.jpg"
   },
   {
+    "name": "Lifelong Acquisition",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Lifelong_Acquisition-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Lifelong_Acquisition-Flawed_Koncepts.jpg"
+  },
+  {
     "name": "Loyal Comradeship",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Loyal_Comradeship-Flawed_Koncepts.jpg",
@@ -330,6 +372,12 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Positive_Vitality-Flawed_Koncepts.jpg"
   },
   {
+    "name": "Precious Animation",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Precious_Animation-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Precious_Animation-Flawed_Koncepts.jpg"
+  },
+  {
     "name": "Productive Concord",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Productive_Concord-Flawed_Koncepts.jpg",
@@ -340,6 +388,12 @@
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Profound_Discernment-Flawed_Koncepts.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Profound_Discernment-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Profound Significance",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Profound_Significance-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Profound_Significance-Flawed_Koncepts.jpg"
   },
   {
     "name": "Pure Blissfulness",
@@ -444,6 +498,12 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Steadfast_Loyalty-Flawed_Koncepts.jpg"
   },
   {
+    "name": "Steady Allegiance",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Steady_Allegiance-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Steady_Allegiance-Flawed_Koncepts.jpg"
+  },
+  {
     "name": "Steady Certitude",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Steady_Certitude-Flawed_Koncepts.jpg",
@@ -462,22 +522,16 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Strong_Morality-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Strong Self",
-    "author": "sufficiency",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Strong_Self-sufficiency-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Strong_Self-sufficiency-Flawed_Koncepts.jpg"
+    "name": "Strong Self Sufficiency",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Strong_Self_Sufficiency-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Strong_Self_Sufficiency-Flawed_Koncepts.jpg"
   },
   {
     "name": "Thoughtful Regard",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Thoughtful_Regard-Flawed_Koncepts.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Thoughtful_Regard-Flawed_Koncepts.jpg"
-  },
-  {
-    "name": "True Autonomy",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/True_Autonomy-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_True_Autonomy-Flawed_Koncepts.jpg"
   },
   {
     "name": "True Devotion",
@@ -498,16 +552,22 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Unbiased_Justice-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Uncompromising Merit",
+    "name": "Unconditional Affection",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Uncompromising_Merit-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Uncompromising_Merit-Flawed_Koncepts.jpg"
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Unconditional_Affection-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Unconditional_Affection-Flawed_Koncepts.jpg"
   },
   {
     "name": "Unique Eccentricity",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Unique_Eccentricity-Flawed_Koncepts.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Unique_Eccentricity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Unmatched Prowess",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Unmatched_Prowess-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Unmatched_Prowess-Flawed_Koncepts.jpg"
   },
   {
     "name": "Unshakeable Devoutness",
@@ -534,9 +594,9 @@
     "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Vast_Erudition-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Warm Accord",
+    "name": "Visionary Stewardship",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Warm_Accord-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Warm_Accord-Flawed_Koncepts.jpg"
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/Visionary_Stewardship-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/imperfekt/wallpapers/thumbnails/thumbnail_Visionary_Stewardship-Flawed_Koncepts.jpg"
   }
 ]
