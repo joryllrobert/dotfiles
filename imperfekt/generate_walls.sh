@@ -14,7 +14,7 @@ process_image() {
     local file="$1"
     local filename=$(basename "$file")
     # Generate the thumbnail and save it to the output directory
-    magick "$file" -resize 300x300^ -gravity center -extent 300x300 "$output_dir/thumbnail_$filename"
+    magick "$file" -resize 1000x1000^ -gravity center -extent 1000x1000 -quality 75 "$output_dir/thumbnail_$filename"
     echo "Creating thumbnail for $file"
 }
 
