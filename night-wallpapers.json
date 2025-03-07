@@ -1,723 +1,620 @@
 [
   {
-    "name": "Sublime Comfort",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sublime_Comfort-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Sublime_Comfort-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Warm Embrace",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Warm_Embrace-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Warm_Embrace-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Growing Prosperity",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Growing_Prosperity-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Growing_Prosperity-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Uplifting Mirage",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Uplifting_Mirage-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Uplifting_Mirage-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Honest Sincerity",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Honest_Sincerity-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Honest_Sincerity-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Pure Radiance",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Pure_Radiance-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Pure_Radiance-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Playful Lollipops",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Playful_Lollipops-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Playful_Lollipops-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Uplifting Aura",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Uplifting_Aura-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Uplifting_Aura-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Lush Serenity",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Lush_Serenity-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Lush_Serenity-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Unique Distinction",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Unique_Distinction-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Unique_Distinction-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Celestial Flow",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Celestial_Flow-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Celestial_Flow-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Radiant Zen",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Radiant_Zen-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Radiant_Zen-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Timeless Beauty",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Timeless_Beauty-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Timeless_Beauty-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Firm Steadiness",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Firm_Steadiness-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Firm_Steadiness-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Mystic Luster",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Mystic_Luster-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Mystic_Luster-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Sparkling Harmony",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sparkling_Harmony-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Sparkling_Harmony-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Seraphic Light",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Seraphic_Light-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Seraphic_Light-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Dreamy Reflection",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Dreamy_Reflection-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Dreamy_Reflection-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Sparkling Wonder",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sparkling_Wonder-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Sparkling_Wonder-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Vibrant Harmony",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Vibrant_Harmony-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Vibrant_Harmony-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Soothing Glow",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Soothing_Glow-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Soothing_Glow-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Exemplary Prestige",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Exemplary_Prestige-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Exemplary_Prestige-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Gentle Vibrance",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Gentle_Vibrance-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Gentle_Vibrance-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Perfect Serenity",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Perfect_Serenity-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Perfect_Serenity-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Verdant Whimsy",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Verdant_Whimsy-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Verdant_Whimsy-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Euphoric Glow",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Euphoric_Glow-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Euphoric_Glow-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Lasting Affluence",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Lasting_Affluence-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Lasting_Affluence-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Euphoric Essence",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Euphoric_Essence-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Euphoric_Essence-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Luminous Cascade",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Luminous_Cascade-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Luminous_Cascade-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Soothing Whimsy",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Soothing_Whimsy-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Soothing_Whimsy-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Whispering Glow",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Whispering_Glow-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Whispering_Glow-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Strong Incentive",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Strong_Incentive-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Strong_Incentive-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Clear Determination",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Clear_Determination-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Clear_Determination-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Inner Resilience",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Inner_Resilience-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Inner_Resilience-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Soft Elegance",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Soft_Elegance-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Soft_Elegance-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Strong Fortitude",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Strong_Fortitude-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Strong_Fortitude-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Luminous Haven",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Luminous_Haven-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Luminous_Haven-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Heavenly Spark",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Heavenly_Spark-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Heavenly_Spark-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Harmonious Flow",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Harmonious_Flow-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Harmonious_Flow-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Generous Benevolence",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Generous_Benevolence-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Generous_Benevolence-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Cosmic Serenity",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Cosmic_Serenity-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Cosmic_Serenity-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Seraphic Calm",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Seraphic_Calm-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Seraphic_Calm-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Twilight Serenity",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Twilight_Serenity-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Twilight_Serenity-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Golden Serenity",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Golden_Serenity-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Golden_Serenity-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Mutual Appreciation",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Mutual_Appreciation-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Mutual_Appreciation-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Clear Aspiration",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Clear_Aspiration-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Clear_Aspiration-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Radiant Splendor",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Radiant_Splendor-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Radiant_Splendor-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Generous Kindness",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Generous_Kindness-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Generous_Kindness-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Flourishing Bloom",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Flourishing_Bloom-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Flourishing_Bloom-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Serene Vista",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Serene_Vista-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Serene_Vista-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Ethereal Essence",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Ethereal_Essence-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Ethereal_Essence-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Strong Solidarity",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Strong_Solidarity-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Strong_Solidarity-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Shimmering Horizon",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Shimmering_Horizon-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Shimmering_Horizon-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Boundless Bounty",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Boundless_Bounty-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Boundless_Bounty-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Deep Assurance",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Deep_Assurance-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Deep_Assurance-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Peaceful Glow",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Peaceful_Glow-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Peaceful_Glow-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Shimmering Bliss",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Shimmering_Bliss-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Shimmering_Bliss-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Flourishing Harmony",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Flourishing_Harmony-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Flourishing_Harmony-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Boundless Harmony",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Boundless_Harmony-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Boundless_Harmony-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Uplifting Vitality",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Uplifting_Vitality-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Uplifting_Vitality-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Tranquil Wonder",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Tranquil_Wonder-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Tranquil_Wonder-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Pure Righteousness",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Pure_Righteousness-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Pure_Righteousness-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Bright Horizon",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Bright_Horizon-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Bright_Horizon-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Unyielding Faith",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Unyielding_Faith-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Unyielding_Faith-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Sacred Glow",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sacred_Glow-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Sacred_Glow-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Dreamy Horizon",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Dreamy_Horizon-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Dreamy_Horizon-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Creative Inventiveness",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Creative_Inventiveness-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Creative_Inventiveness-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Sincere Gratification",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sincere_Gratification-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Sincere_Gratification-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Soothing Stillness",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Soothing_Stillness-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Soothing_Stillness-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Euphoric Radiance",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Euphoric_Radiance-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Euphoric_Radiance-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Thoughtful Serenity",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Thoughtful_Serenity-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Thoughtful_Serenity-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Golden Flow",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Golden_Flow-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Golden_Flow-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
     "name": "Blissful Horizon",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Blissful_Horizon-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Blissful_Horizon-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Whimsical Forest",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Whimsical Forest-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Whimsical Forest-Flawed_Koncepts.jpg",
-    "categories": ""
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Blissful_Horizon-Flawed_Koncepts.jpg"
   },
   {
     "name": "Blissful Tranquility",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Blissful_Tranquility-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Blissful_Tranquility-Flawed_Koncepts.jpg",
-    "categories": ""
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Blissful_Tranquility-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Verdant Peace",
+    "name": "Boundless Bounty",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Verdant_Peace-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Verdant_Peace-Flawed_Koncepts.jpg",
-    "categories": ""
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Boundless_Bounty-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Boundless_Bounty-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Majestic Glow",
+    "name": "Boundless Harmony",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Majestic_Glow-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Majestic_Glow-Flawed_Koncepts.jpg",
-    "categories": ""
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Boundless_Harmony-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Boundless_Harmony-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Golden Spark",
+    "name": "Bright Horizon",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Golden_Spark-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Golden_Spark-Flawed_Koncepts.jpg",
-    "categories": ""
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Bright_Horizon-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Bright_Horizon-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Polished Optimism",
+    "name": "Celestial Flow",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Polished_Optimism-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Polished_Optimism-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Whispering Meadow",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Whispering_Meadow-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Whispering_Meadow-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Consistent Dependability",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Consistent_Dependability-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Consistent_Dependability-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Mutual Admiration",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Mutual_Admiration-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Mutual_Admiration-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Vibrant Life force",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Vibrant_Life_force-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Vibrant_Life_force-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Elegant Sophistication",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Elegant_Sophistication-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Elegant_Sophistication-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Sparkling Tranquility",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sparkling_Tranquility-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Sparkling_Tranquility-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Peaceful Stillness",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Peaceful_Stillness-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Peaceful_Stillness-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Pure Delight",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Pure_Delight-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Pure_Delight-Flawed_Koncepts.jpg",
-    "categories": ""
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Celestial_Flow-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Celestial_Flow-Flawed_Koncepts.jpg"
   },
   {
     "name": "Celestial Haven",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Celestial_Haven-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Celestial_Haven-Flawed_Koncepts.jpg",
-    "categories": ""
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Celestial_Haven-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Clear Aspiration",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Clear_Aspiration-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Clear_Aspiration-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Clear Determination",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Clear_Determination-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Clear_Determination-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Consistent Dependability",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Consistent_Dependability-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Consistent_Dependability-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Cosmic Serenity",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Cosmic_Serenity-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Cosmic_Serenity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Creative Inventiveness",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Creative_Inventiveness-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Creative_Inventiveness-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Deep Assurance",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Deep_Assurance-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Deep_Assurance-Flawed_Koncepts.jpg"
   },
   {
     "name": "Deep Subtlety",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Deep_Subtlety-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Deep_Subtlety-Flawed_Koncepts.jpg",
-    "categories": ""
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Deep_Subtlety-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Tranquil Hush",
+    "name": "Dreamy Horizon",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Tranquil_Hush-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Tranquil_Hush-Flawed_Koncepts.jpg",
-    "categories": ""
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Dreamy_Horizon-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Dreamy_Horizon-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Lonesome Happiness",
+    "name": "Dreamy Reflection",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Lonesome_Happiness-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Lonesome_Happiness-Flawed_Koncepts.jpg",
-    "categories": ""
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Dreamy_Reflection-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Dreamy_Reflection-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Mystic Harmony",
+    "name": "Elegant Sophistication",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Mystic_Harmony-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Mystic_Harmony-Flawed_Koncepts.jpg",
-    "categories": ""
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Elegant_Sophistication-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Elegant_Sophistication-Flawed_Koncepts.jpg"
   },
   {
-    "name": "Floating Island",
+    "name": "Ethereal Essence",
     "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Floating Island-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Floating Island-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Heartfelt Gratefulness",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Heartfelt_Gratefulness-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Heartfelt_Gratefulness-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Harmonious Whispers",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Harmonious_Whispers-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Harmonious_Whispers-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Warm Cordiality",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Warm_Cordiality-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Warm_Cordiality-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Tranquil Embrace",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Tranquil_Embrace-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Tranquil_Embrace-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Misty Radiance",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Misty_Radiance-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Misty_Radiance-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Whispering Twilight",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Whispering_Twilight-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Whispering_Twilight-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Shimmering Solace",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Shimmering_Solace-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Shimmering_Solace-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Infinite Bloom",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Infinite_Bloom-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Infinite_Bloom-Flawed_Koncepts.jpg",
-    "categories": ""
-  },
-  {
-    "name": "Serene Starlight",
-    "author": "Flawed Koncepts",
-    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Serene_Starlight-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Serene_Starlight-Flawed_Koncepts.jpg",
-    "categories": ""
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Ethereal_Essence-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Ethereal_Essence-Flawed_Koncepts.jpg"
   },
   {
     "name": "Ethereal Radiance",
     "author": "Flawed Koncepts",
     "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Ethereal_Radiance-Flawed_Koncepts.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/thumbnails/night/Ethereal_Radiance-Flawed_Koncepts.jpg",
-    "categories": ""
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Ethereal_Radiance-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Euphoric Essence",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Euphoric_Essence-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Euphoric_Essence-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Euphoric Glow",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Euphoric_Glow-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Euphoric_Glow-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Euphoric Radiance",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Euphoric_Radiance-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Euphoric_Radiance-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Exemplary Prestige",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Exemplary_Prestige-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Exemplary_Prestige-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Firm Steadiness",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Firm_Steadiness-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Firm_Steadiness-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Floating Island",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Floating Island-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Floating Island-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Flourishing Bloom",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Flourishing_Bloom-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Flourishing_Bloom-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Flourishing Harmony",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Flourishing_Harmony-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Flourishing_Harmony-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Generous Benevolence",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Generous_Benevolence-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Generous_Benevolence-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Generous Kindness",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Generous_Kindness-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Generous_Kindness-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Gentle Vibrance",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Gentle_Vibrance-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Gentle_Vibrance-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Golden Flow",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Golden_Flow-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Golden_Flow-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Golden Serenity",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Golden_Serenity-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Golden_Serenity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Golden Spark",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Golden_Spark-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Golden_Spark-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Growing Prosperity",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Growing_Prosperity-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Growing_Prosperity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Harmonious Flow",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Harmonious_Flow-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Harmonious_Flow-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Harmonious Whispers",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Harmonious_Whispers-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Harmonious_Whispers-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Heartfelt Gratefulness",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Heartfelt_Gratefulness-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Heartfelt_Gratefulness-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Heavenly Spark",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Heavenly_Spark-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Heavenly_Spark-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Honest Sincerity",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Honest_Sincerity-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Honest_Sincerity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Infinite Bloom",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Infinite_Bloom-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Infinite_Bloom-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Inner Resilience",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Inner_Resilience-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Inner_Resilience-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Lasting Affluence",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Lasting_Affluence-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Lasting_Affluence-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Lonesome Happiness",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Lonesome_Happiness-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Lonesome_Happiness-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Luminous Cascade",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Luminous_Cascade-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Luminous_Cascade-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Luminous Haven",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Luminous_Haven-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Luminous_Haven-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Lush Serenity",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Lush_Serenity-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Lush_Serenity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Majestic Glow",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Majestic_Glow-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Majestic_Glow-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Misty Radiance",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Misty_Radiance-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Misty_Radiance-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Mutual Admiration",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Mutual_Admiration-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Mutual_Admiration-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Mutual Appreciation",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Mutual_Appreciation-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Mutual_Appreciation-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Mystic Harmony",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Mystic_Harmony-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Mystic_Harmony-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Mystic Luster",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Mystic_Luster-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Mystic_Luster-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Peaceful Glow",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Peaceful_Glow-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Peaceful_Glow-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Peaceful Stillness",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Peaceful_Stillness-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Peaceful_Stillness-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Perfect Serenity",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Perfect_Serenity-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Perfect_Serenity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Playful Lollipops",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Playful_Lollipops-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Playful_Lollipops-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Polished Optimism",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Polished_Optimism-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Polished_Optimism-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Pure Delight",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Pure_Delight-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Pure_Delight-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Pure Radiance",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Pure_Radiance-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Pure_Radiance-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Pure Righteousness",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Pure_Righteousness-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Pure_Righteousness-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Radiant Splendor",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Radiant_Splendor-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Radiant_Splendor-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Radiant Zen",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Radiant_Zen-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Radiant_Zen-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Sacred Glow",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sacred_Glow-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Sacred_Glow-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Seraphic Calm",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Seraphic_Calm-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Seraphic_Calm-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Seraphic Light",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Seraphic_Light-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Seraphic_Light-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Serene Starlight",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Serene_Starlight-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Serene_Starlight-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Serene Vista",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Serene_Vista-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Serene_Vista-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Shimmering Bliss",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Shimmering_Bliss-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Shimmering_Bliss-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Shimmering Horizon",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Shimmering_Horizon-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Shimmering_Horizon-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Shimmering Solace",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Shimmering_Solace-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Shimmering_Solace-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Sincere Gratification",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sincere_Gratification-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Sincere_Gratification-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Soft Elegance",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Soft_Elegance-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Soft_Elegance-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Soothing Glow",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Soothing_Glow-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Soothing_Glow-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Soothing Stillness",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Soothing_Stillness-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Soothing_Stillness-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Soothing Whimsy",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Soothing_Whimsy-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Soothing_Whimsy-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Sparkling Harmony",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sparkling_Harmony-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Sparkling_Harmony-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Sparkling Tranquility",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sparkling_Tranquility-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Sparkling_Tranquility-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Sparkling Wonder",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sparkling_Wonder-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Sparkling_Wonder-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Strong Fortitude",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Strong_Fortitude-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Strong_Fortitude-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Strong Incentive",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Strong_Incentive-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Strong_Incentive-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Strong Solidarity",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Strong_Solidarity-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Strong_Solidarity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Sublime Comfort",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Sublime_Comfort-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Sublime_Comfort-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Thoughtful Serenity",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Thoughtful_Serenity-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Thoughtful_Serenity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Timeless Beauty",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Timeless_Beauty-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Timeless_Beauty-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Tranquil Embrace",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Tranquil_Embrace-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Tranquil_Embrace-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Tranquil Hush",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Tranquil_Hush-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Tranquil_Hush-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Tranquil Wonder",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Tranquil_Wonder-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Tranquil_Wonder-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Twilight Serenity",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Twilight_Serenity-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Twilight_Serenity-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Unique Distinction",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Unique_Distinction-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Unique_Distinction-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Unyielding Faith",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Unyielding_Faith-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Unyielding_Faith-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Uplifting Aura",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Uplifting_Aura-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Uplifting_Aura-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Uplifting Mirage",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Uplifting_Mirage-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Uplifting_Mirage-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Uplifting Vitality",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Uplifting_Vitality-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Uplifting_Vitality-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Verdant Peace",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Verdant_Peace-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Verdant_Peace-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Verdant Whimsy",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Verdant_Whimsy-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Verdant_Whimsy-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Vibrant Harmony",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Vibrant_Harmony-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Vibrant_Harmony-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Vibrant Life force",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Vibrant_Life_force-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Vibrant_Life_force-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Warm Cordiality",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Warm_Cordiality-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Warm_Cordiality-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Warm Embrace",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Warm_Embrace-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Warm_Embrace-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Whimsical Forest",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Whimsical Forest-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Whimsical Forest-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Whispering Glow",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Whispering_Glow-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Whispering_Glow-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Whispering Meadow",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Whispering_Meadow-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Whispering_Meadow-Flawed_Koncepts.jpg"
+  },
+  {
+    "name": "Whispering Twilight",
+    "author": "Flawed Koncepts",
+    "url": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/Whispering_Twilight-Flawed_Koncepts.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/joryllrobert/dotfiles/main/wallpapers/night/thumbnails/thumbnail_Whispering_Twilight-Flawed_Koncepts.jpg"
   }
 ]
